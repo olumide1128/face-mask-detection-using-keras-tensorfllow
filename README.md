@@ -10,6 +10,10 @@ It would open your webcam and you can see the detections.
 ![](https://github.com/olumide1128/face-mask-detection-using-keras-tensorfllow/blob/master/screenshot/nomask.png)
 
 # Half Mask
+![](https://github.com/olumide1128/face-mask-detection-using-keras-tensorfllow/blob/master/screenshot/halfmask.png)
+
+
+# Mask
 
 
 
