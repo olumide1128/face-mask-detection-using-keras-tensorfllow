@@ -6,4 +6,11 @@ Then run the "detect_mask_video.py" file to start the script.
 
 It would open your webcam and you can see the detections.
 
+# No Mask
+![](https://github.com/olumide1128/face-mask-detection-using-keras-tensorfllow/blob/master/screenshot/nomask.png)
+
+# Half Mask
+
+
+
 Cheers!!
